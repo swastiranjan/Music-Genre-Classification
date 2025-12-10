@@ -1,4 +1,4 @@
-Music Genre Classification (GTZAN Dataset)
+## Music Genre Classification (GTZAN Dataset)
 
 This project classifies music into 10 genres using audio features extracted from the GTZAN dataset.
 A Random Forest classifier is trained on both 30-second and 3-second versions of the dataset.
